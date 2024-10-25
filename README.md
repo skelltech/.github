@@ -17,7 +17,6 @@ Our mission is to build technology that addresses global challenges—offering s
    - A dynamic data visualization platform integrating public records, crime data, and WiFi networks into interactive maps for awareness and decision-making.
 
 2. **SolTek**
-   - 	2.	SolTek
 	-	A mission-driven solar energy service and consulting initiative focused on open sourced energy. SolTek optimizes the performance of solar installations through diagnostics, maintenance, and repair, ensuring sustainable and efficient energy solutions. With a commitment to environmental impact and innovation, SolTek empowers communities and businesses, starting in the UAE, to transition towards a cleaner, more sustainable future.
 ---
 

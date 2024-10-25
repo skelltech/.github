@@ -16,15 +16,6 @@ Our mission is to build technology that addresses global challenges—offering s
 1. **OmniCarta**  
    - A dynamic data visualization platform integrating public records, crime data, and WiFi networks into interactive maps for awareness and decision-making.
 
-2. **Pisusu**  
-   - Experiments using Raspberry Pi and IoT devices to explore **sustainable living** and **personal technology hacks**.
-
-3. **LifeStack**  
-   - A framework for intentional living, balancing **health, mindfulness, and productivity** through technology and simple habits.
-
-4. **ahktopus**  
-   - An NFT collection exploring the intersection of art and technology, with each piece representing a unique cultural or geographic identity.
-
 ---
 
 ## Core Principles
